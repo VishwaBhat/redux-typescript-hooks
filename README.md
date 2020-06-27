@@ -5,4 +5,4 @@
 - SASS Modules
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-To start the project, run `yarn install` and then `yarn start`
+To start the project, run `npm install` and then `npm start`
